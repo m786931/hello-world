@@ -1,3 +1,5 @@
 This is a test of SourceTree
 Adding a line here
 and there
+
+Dan McCool

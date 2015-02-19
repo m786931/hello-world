@@ -3,4 +3,4 @@ Adding a line there
 and here
 
 Dan McCool
-Tag v1.0.0
+Tag v1.0.1
